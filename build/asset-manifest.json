@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.491f59c2.css",
+    "main.js": "/static/js/main.bfc22fc8.js",
+    "static/media/responsaveis.jpg": "/static/media/responsaveis.ff287d86e8010c49e2b5.jpg",
+    "static/media/agenda.png": "/static/media/agenda.375676a2176d27d51066.png",
+    "static/media/NftBanner1.png": "/static/media/NftBanner1.87062366f75bedd52bd2.png",
+    "static/media/Navbar.png": "/static/media/Navbar.f96a9f58c491b9acda99.png",
+    "static/media/key.jpg": "/static/media/key.714c5aff22ca7a8c082e.jpg",
+    "static/media/classroomIcon-removebg-preview.png": "/static/media/classroomIcon-removebg-preview.2da5798049d3a9917def.png",
+    "index.html": "/index.html",
+    "main.491f59c2.css.map": "/static/css/main.491f59c2.css.map",
+    "main.bfc22fc8.js.map": "/static/js/main.bfc22fc8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.491f59c2.css",
+    "static/js/main.bfc22fc8.js"
+  ]
+}
